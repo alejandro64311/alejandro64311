@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Alejandro Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7E4&background=FFFFFF00&width=450&height=48&lines=Passionate+Software+Engineer;Always+researching+and+practicing;Challenges+fuel+my+motivation+and+growth" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07F7E4&background=FFFFFF00&width=470&height=48&lines=Passionate+Software+Engineer;Always+researching+and+practicing;Challenges+fuel+my+motivation+and+growth" alt="Typing SVG" /></a>
 </p>
 
 
