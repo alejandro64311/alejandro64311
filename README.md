@@ -10,9 +10,8 @@
 
 
 
-	
-## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://giphy.com/gifs/xbox-xbox-series-x-stanley-the-parable-h0Cq1ClzO3UpupFPjP)" width = 50px></picture> **About me**
-
+ 
+## <picture><img src = "https://raw.githubusercontent.com/alejandro64311/images/main/about_me.gif" width = 50px></picture> About me
 
 <br>
 
