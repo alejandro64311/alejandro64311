@@ -29,7 +29,6 @@
 <br>
 
 <p align="center">
-### Tech Stack
 
 - **Languages**:
   
@@ -66,22 +65,8 @@
 <br>
 <br>
 
------
-
-<br>
 
 
-<br>
-
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b>
 <br>
